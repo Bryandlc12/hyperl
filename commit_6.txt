@@ -1,1 +1,1 @@
-Este es el commit 6, realizado el 2025-02-03 23:28:25
+Commit 6 realizado el 2025-01-20 10:00:00
